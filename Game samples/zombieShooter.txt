@@ -21,4 +21,4 @@
 	Request:  http://request.kenney.nl
 
 	Follow on Twitter for updates:
-	@KenneyWings
+	@KenneyNL
